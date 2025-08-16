@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36401.2 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task1", "Linear algorithms\Task1.csproj", "{03355345-8C3C-424A-8471-57629F6FC51C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task2", "Task2\Task2.csproj", "{72F73685-2FED-450F-8FED-132392F9B23F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task3", "Task3\Task3.csproj", "{7DBBA83C-439A-4506-8C6A-FE34275E2818}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{03355345-8C3C-424A-8471-57629F6FC51C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03355345-8C3C-424A-8471-57629F6FC51C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03355345-8C3C-424A-8471-57629F6FC51C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03355345-8C3C-424A-8471-57629F6FC51C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{72F73685-2FED-450F-8FED-132392F9B23F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72F73685-2FED-450F-8FED-132392F9B23F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72F73685-2FED-450F-8FED-132392F9B23F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72F73685-2FED-450F-8FED-132392F9B23F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7DBBA83C-439A-4506-8C6A-FE34275E2818}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7DBBA83C-439A-4506-8C6A-FE34275E2818}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7DBBA83C-439A-4506-8C6A-FE34275E2818}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7DBBA83C-439A-4506-8C6A-FE34275E2818}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C82EF673-3AA1-4084-AECD-0ACEBA0BD3FA}
+	EndGlobalSection
+EndGlobal
